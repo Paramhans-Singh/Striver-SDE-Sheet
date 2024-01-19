@@ -6,7 +6,7 @@ public class CheckPalindrome {
         int num = s.nextInt();
         int temp = num;
         int reverse = 0;
-// negative no. are not palindrome
+   // negative no. are not palindrome
    
         while(temp>0){
            int rem = temp%10;
